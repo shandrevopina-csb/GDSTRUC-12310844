@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da598808-c595-468a-9a86-46ac2d0f6322" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Module 0/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 0/Module 0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module1_Quiz1_OPINA/Module1_Quiz1_OPINA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2_Quiz2_OPINA/Module2_Quiz2_OPINA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2_Quiz2_OPINA/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2_Quiz2_OPINA/src/PlayerLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module2_Quiz2_OPINA/src/PlayerNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module_4_Quiz3_OPINA/Module_4_Quiz3_OPINA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPINA_Midterms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sample Project/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="36P8LPUDeQGNpk4xn91S7ZH0YzK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/GDSTRUC (3rd Year 1st Term)/OPINA_Midterms/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da598808-c595-468a-9a86-46ac2d0f6322" name="Changes" comment="" />
+      <created>1764896793470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764896793470</updated>
+    </task>
+    <servers />
+  </component>
+</project>
